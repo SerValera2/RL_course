@@ -1,0 +1,13 @@
+gym
+gym-minigrid
+scikit-learn
+pandas
+matplotlib
+numpy
+tqdm
+torch
+torchvision
+tensorflow
+tensorboard
+tensorboardX
+ffmpeg
